@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 60%;
+ margin: 0 auto;
+    font-size: 26px;
+    justify-content: center;
+    align-items: center;
+
+    padding-bottom: 20px;
+}
+.for__docs{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+
+
+}
+.for__docs__gets{
+    width: 600px;
+
+    background-color: black;
+    border: none;
+    border-radius: 20px;
+
+    color: aliceblue;
+
+}
+.request{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+}
+.main{
+    width: 100%;
+    background-color: crimson;
+}
